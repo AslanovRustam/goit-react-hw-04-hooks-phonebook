@@ -1,0 +1,14 @@
+.section {
+  width: 300px;
+  margin-bottom: 15px;
+}
+
+.input {
+  margin: 5px;
+  height: 31px;
+  width: 285px;
+  padding-left: 10px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #cacaca;
+}
